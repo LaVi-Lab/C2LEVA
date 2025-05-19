@@ -36,7 +36,7 @@ Below are the links to request the past versions of C<sup>2</sup>LEVA test sets.
 
 ## 🛂 License
 
-CLEVA is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+C<sup>2</sup>LEVA is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
 
 You should have received a copy of the license along with this work. If not, see <https://creativecommons.org/licenses/by-nc-nd/4.0/>.
 
