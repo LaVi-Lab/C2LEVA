@@ -1,7 +1,7 @@
 # <h1 align="center">C<sup>2</sup>LEVA: Toward Comprehensive and Contamination-Free Language Model Evaluation</h1>
 <div align="center">
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/Lavi-Lab/C2LEVA)](https://github.com/Lavi-Lab/C2LEVA/stargazers)
+[![GitHub Repo stars](https://img.shields.io/github/stars/LaVi-Lab/C2LEVA)](https://github.com/LaVi-Lab/C2LEVA/stargazers)
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-blue.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 [![Ask me anything](https://img.shields.io/badge/Ask%20me-anything-blue.svg)](https://github.com/LaVi-Lab/C2LEVA/issues/new)
 
